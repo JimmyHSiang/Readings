@@ -1,4 +1,5 @@
 # Readings
 
 book list:
-<<R in action>>
+
+R in action
